@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [TimeBird](https://github.com/platinumpizza29/timebird)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://vercel.com/platinumpizza29s-projects/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-seven-rouge-56.vercel.app/)
 
 - 💬 Ask me about **Flutter, MERN, React Native,**
 
