@@ -3,7 +3,7 @@
 <h3 align="center">Crafting Scalable Solutions with Clean Code and Cutting-Edge Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhwbGt6emFuZHlmOHZsNWNmd3Y1dWF4ZXZtbHhnOXM4dzdmYWFlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
-- 🔭 I’m currently working on [Fusion](https://github.com/platinumpizza29/Fusion)
+- 🔭 I’m currently working on [TimeBird](https://github.com/platinumpizza29/timebird)
 
 - 🌱 I’m currently learning **Nextjs, Laravel**
 
