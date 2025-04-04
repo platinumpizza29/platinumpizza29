@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Nextjs, Laravel**
 
-- 🤝 I’m looking for help with [Synthix](https://github.com/platinumpizza29/synthix)
+- 🤝 I’m looking for help with [TimeBird](https://github.com/platinumpizza29/timebird)
 
-- 👨‍💻 All of my projects are available at [https://keyurbilgi.netlify.app/](https://keyurbilgi.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vercel.com/platinumpizza29s-projects/portfolio)
 
 - 💬 Ask me about **Flutter, MERN, React Native,**
 
